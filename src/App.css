@@ -42,6 +42,24 @@ body {
 .meaningofvalue{
 
 }
+.meaningofvalue{
+
+  font-size: 14px;
+}
+@media only screen and (max-width: 1100px) {
+
+  .meaningofvalue{
+
+    font-size: 12px;
+  }
+
+}
+
+.percentage37{
+  background-color: #ff6600;
+}
+
+
 /*
 #f9b5c4
 Ljusrosa = 249, 181, 200 
