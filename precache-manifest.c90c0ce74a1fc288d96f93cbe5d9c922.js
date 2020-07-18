@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2cfeb466e1e94487f9d63ce9683763fd",
+    "revision": "2545f332aaed706b1f36183fe8e8e89a",
     "url": "/stock-risk-management/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stock-risk-management/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "8510ac7acfe3140a83f5",
-    "url": "/stock-risk-management/static/css/main.045058b7.chunk.css"
+    "revision": "b572f42bbcf04c4b8fd2",
+    "url": "/stock-risk-management/static/css/main.8e22e48c.chunk.css"
   },
   {
     "revision": "d80e882ea52cb735f33b",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stock-risk-management/static/js/2.4ea826d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8510ac7acfe3140a83f5",
-    "url": "/stock-risk-management/static/js/main.9d115cf3.chunk.js"
+    "revision": "b572f42bbcf04c4b8fd2",
+    "url": "/stock-risk-management/static/js/main.9302e693.chunk.js"
   },
   {
     "revision": "bdb604b32b2479d8931d",
