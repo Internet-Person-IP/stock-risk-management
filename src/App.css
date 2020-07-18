@@ -1,38 +1,55 @@
-.App {
+
+.table-with-res{
+  height: 75%;
+  width: 75%;
+  position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  	
+	margin: auto;
+
+}
+.stock-management{
   text-align: center;
+  margin-bottom:50px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html{
+  height: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media only screen and (max-height: 720px) {
+
+  html{
+    height: 150%;
   }
+
+}
+body {
+    height: 100%;
+    background: linear-gradient(to bottom left, 
+    #d979ff 25%, #99f4ff 25%, #99f4ff 50%, #baf5df 50%, #baf5df 75%, #f9b5c4 75% );
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+.valuepercentage {
+  min-width: 200px;
+
 }
 
-.App-link {
-  color: #61dafb;
-}
+.meaningofvalue{
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
+/*
+#f9b5c4
+Ljusrosa = 249, 181, 200 
+#baf5df
+Ljusgrön = 186, 245, 223
+#99f4ff
+Ljusblå = 153, 244, 255
+#d979ff
+Ljuslila = 217, 121, 255
+
+*/
